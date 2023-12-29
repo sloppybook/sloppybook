@@ -1,3 +1,8 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sloppybook&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sloppybook&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sloppybook&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sloppybook&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sloppybook&theme=blueberry&utcOffset=9)
 <p align="left"> 
   <a href="https://github.com/sloppybook/sloppybook/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
